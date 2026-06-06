@@ -1,16 +1,17 @@
 # Hi, I'm Anshu Jha 👋
 
-Backend-focused Full Stack Developer building scalable and reliable systems using Node.js, MongoDB, Redis, and distributed backend architecture principles.
+Backend-focused Full Stack Developer building scalable and reliable applications using Node.js, MongoDB, Redis, React, and Flutter.
 
 ---
 
 ## 🚀 What I Build
 
-- Production-oriented backend systems with scalability and reliability in mind
-- Transaction-safe APIs using MongoDB transactions and idempotency protection
-- Distributed caching and rate limiting with Redis
-- Event-driven workflows using transactional outbox patterns
-- Secure authentication and authorization systems using JWT
+* Full-stack applications with a strong focus on backend architecture and reliability
+* Transaction-safe APIs using MongoDB transactions and idempotency protection
+* Redis-backed caching and rate limiting for performance optimization
+* Asynchronous workflows using transactional outbox patterns
+* Secure authentication and authorization systems using JWT and session management
+* AI-powered applications with validation, normalization, and structured processing pipelines
 
 ---
 
@@ -18,50 +19,52 @@ Backend-focused Full Stack Developer building scalable and reliable systems usin
 
 ### 🧠 HireMind AI
 
-AI-powered interview assistant platform with:
+AI-powered interview assistant platform featuring:
 
-- Secure JWT authentication and session management
-- Structured AI response pipelines
-- Prompt engineering and validation workflows
-- Scalable MVC backend architecture
-- Full-stack React integration
+* Secure JWT authentication with HTTP-only cookie-based session management
+* AI report generation with validation, normalization, and structured processing workflows
+* Resume parsing, PDF generation, filtering, pagination, and analytics
+* Backend-driven architecture with centralized error handling and validation
+* Full-stack implementation using React and REST APIs
 
-**Tech:** Node.js, Express.js, MongoDB, React, AI APIs
+**Tech:** Node.js, Express.js, MongoDB, React, Zod, PDF Parse, PDFKit, AI APIs
 
-### 💳 LedgerFlow — Distributed Fintech Backend Simulation
+### 💳 LedgerFlow — Transaction-Safe Backend System
 
 Production-inspired financial backend system implementing:
 
-- Immutable double-entry ledger architecture
-- Idempotent transaction processing
-- Transactional outbox pattern
-- Redis-backed distributed caching and rate limiting
-- CQRS-lite balance snapshot architecture
-- Dead-letter event handling and retry orchestration
-- Concurrency-safe balance updates using MongoDB transactions
-- Structured logging, request tracing, and observability patterns
+* Ledger-based transaction tracking and account management
+* MongoDB transactions and idempotent transaction processing
+* Redis-backed caching and rate limiting
+* Transactional outbox pattern with asynchronous event processing
+* JWT authentication and token blacklisting
+* Structured logging, request tracing, and centralized API responses
+* Cursor-based transaction history APIs and cache invalidation strategies
 
-**Tech:** Node.js, Express.js, MongoDB, Redis, JWT, Docker
+**Tech:** Node.js, Express.js, MongoDB, Redis, JWT
 
 ---
 
 ## 🛠 Tech
 
 ### Backend
+
 Node.js • Express.js • MongoDB • Redis • REST APIs • JWT
 
-### Frontend
-React.js • JavaScript • HTML • CSS
+### Frontend & Mobile
+
+React.js • Next.js • Flutter • JavaScript • HTML • CSS • Tailwind CSS
 
 ### Concepts
-Distributed Systems • Idempotency • Outbox Pattern • CQRS-lite • Rate Limiting • Caching • Async Processing
+
+API Design • Backend Architecture • MongoDB Transactions • Idempotency • Caching • Rate Limiting • Transactional Outbox Pattern • Asynchronous Processing
 
 ---
 
 ## 📫 Contact
 
-anshujha.codes@gmail.com  
+[anshujha.codes@gmail.com](mailto:anshujha.codes@gmail.com)
 
 ---
 
-👉 Explore the pinned repositories below for architecture details and implementation breakdowns.
+👉 Explore the pinned repositories below for implementation details, architecture decisions, and project breakdowns.
